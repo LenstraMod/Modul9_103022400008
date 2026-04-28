@@ -1,0 +1,15 @@
+D:\ab\Modul9_103022400008\Modul9_103022400008\bin\Debug\net10.0\Modul9_103022400008.exe
+D:\ab\Modul9_103022400008\Modul9_103022400008\bin\Debug\net10.0\Modul9_103022400008.deps.json
+D:\ab\Modul9_103022400008\Modul9_103022400008\bin\Debug\net10.0\Modul9_103022400008.runtimeconfig.json
+D:\ab\Modul9_103022400008\Modul9_103022400008\bin\Debug\net10.0\Modul9_103022400008.dll
+D:\ab\Modul9_103022400008\Modul9_103022400008\bin\Debug\net10.0\Modul9_103022400008.pdb
+D:\ab\Modul9_103022400008\Modul9_103022400008\obj\Debug\net10.0\Modul9_103022400008.GeneratedMSBuildEditorConfig.editorconfig
+D:\ab\Modul9_103022400008\Modul9_103022400008\obj\Debug\net10.0\Modul9_103022400008.AssemblyInfoInputs.cache
+D:\ab\Modul9_103022400008\Modul9_103022400008\obj\Debug\net10.0\Modul9_103022400008.AssemblyInfo.cs
+D:\ab\Modul9_103022400008\Modul9_103022400008\obj\Debug\net10.0\Modul9_103022400008.csproj.CoreCompileInputs.cache
+D:\ab\Modul9_103022400008\Modul9_103022400008\obj\Debug\net10.0\Modul9_103022400008.sourcelink.json
+D:\ab\Modul9_103022400008\Modul9_103022400008\obj\Debug\net10.0\Modul9_103022400008.dll
+D:\ab\Modul9_103022400008\Modul9_103022400008\obj\Debug\net10.0\refint\Modul9_103022400008.dll
+D:\ab\Modul9_103022400008\Modul9_103022400008\obj\Debug\net10.0\Modul9_103022400008.pdb
+D:\ab\Modul9_103022400008\Modul9_103022400008\obj\Debug\net10.0\Modul9_103022400008.genruntimeconfig.cache
+D:\ab\Modul9_103022400008\Modul9_103022400008\obj\Debug\net10.0\ref\Modul9_103022400008.dll
